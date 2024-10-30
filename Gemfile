@@ -62,3 +62,6 @@ group :development do
   gem "syntax_tree-haml"
   gem "syntax_tree-rbs"
 end
+
+gem "bcrypt", "~> 3.1.7"
+gem 'pry-rails'
